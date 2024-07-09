@@ -63,4 +63,4 @@ Este proyecto fue creado por [Adrian](https://github.com/ByTRAX78).
 
 ¡Siéntete libre de contactarme si tienes alguna pregunta o sugerencia!
 
-[LinkedIn](www.linkedin.com/in/martinez-martinez-adrian)
+[LinkedIn](https://www.linkedin.com/in/martinez-martinez-adrian/)
